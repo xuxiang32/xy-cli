@@ -15,7 +15,7 @@ npm link
 ```
 
 # Usage
-Open your terminal and type `xy-cli` or `xy-cli -h` , you'll see the help infomation below:
+Open your terminal and type `xy` or `xy -h` , you'll see the help infomation below:
 ```
   Usage: xy-cli <command>
 
@@ -37,9 +37,9 @@ Open your terminal and type `xy-cli` or `xy-cli -h` , you'll see the help infoma
 
 # Commands
 ### add | a
-This command would help you to add a new template to the `templates.json`, which will be used by `xy-cli` to generate projects.
+This command would help you to add a new template to the `templates.json`, which will be used by `xy` to generate projects.
 ```
-$ xy-cli add
+$ xy add
 
 ? Set the custom name of the template: my-first-template
 ? Owner/name of the template: xuxiang32/xy-cli
@@ -85,7 +85,7 @@ It's easy, right?
 ### delete | d
 To delete a template, you could use this command:
 ```
-$ xy-cli delete
+$ xy delete
 
 ? Which template you want to delete? my-second-template
 ┌───────────────────┬──────────────────┬────────┐

@@ -23,6 +23,6 @@
     "commander": "^2.9.0"
   },
   "bin": {
-    "xy-cli": "bin/xy-cli"
+    "xy-cli": "bin/xy"
   }
 }

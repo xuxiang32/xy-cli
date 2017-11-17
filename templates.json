@@ -1,9 +1,15 @@
 {
   "tpl": {
-    "url": "https://github.com/xuxiang32/xy-vue-template.git",
-    "branch": "master",
     "vue": {
       "url": "https://github.com/xuxiang32/xy-vue-template.git",
+      "branch": "master"
+    },
+    "angular4": {
+      "url": "https://github.com/xuxiang32/angular4-template.git",
+      "branch": "master"
+    },
+    "react-redux": {
+      "url": "https://github.com/xuxiang32/react-redux.git",
       "branch": "master"
     }
   }
